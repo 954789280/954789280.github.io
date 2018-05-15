@@ -1,0 +1,42 @@
+.text {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 18px
+}
+TD {
+	FONT-SIZE: 12px
+}
+.text1 {
+	FONT-SIZE: 12px; COLOR: #ff0000
+}
+.text2 {
+	FONT-SIZE: 14px; COLOR: #1e709f
+}
+.a1:link {
+	FONT-SIZE: 12px; COLOR: #0066cc; TEXT-DECORATION: none
+}
+.a1:visited {
+	FONT-SIZE: 12px; COLOR: #0066cc; TEXT-DECORATION: none
+}
+.a1:hover {
+	FONT-SIZE: 12px; COLOR: #666666; TEXT-DECORATION: underline
+}
+.a2:link {
+	FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: none
+}
+.a2:visited {
+	FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: none
+}
+.a2:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.text3 {
+	FONT-SIZE: 12px; COLOR: #ffffff
+}
+.a3:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.a3:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.a3:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: underline
+}
